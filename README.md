@@ -77,6 +77,7 @@ These results indicate the model provides a reasonable baseline for predicting A
 
 ## Repository Structure
 
+```
 airstay-insights-project/
 │
 ├── notebooks/
@@ -87,6 +88,7 @@ airstay-insights-project/
 │   └── AB_NYC_2019.csv
 │
 ├── README.md
+```
 
 ## Technologies Used
 
