@@ -80,7 +80,8 @@ These results indicate the model provides a reasonable baseline for predicting A
 airstay-insights-project/
 │
 ├── notebooks/
-│   └── assignment_5_1_airstay_insights_model_training.ipynb
+│   ├── assignment_5_1_airstay_insights_model_training.ipynb
+│   └── airstay_insights_sagemaker_xgboost_training.ipynb
 │
 ├── data/
 │   └── AB_NYC_2019.csv
