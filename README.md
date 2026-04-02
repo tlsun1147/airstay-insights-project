@@ -24,6 +24,11 @@ Key Features:
 * availability_365
 * calculated_host_listings_count
 
+## Data Access
+
+The dataset can be downloaded from Kaggle:
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
 ## Machine Learning Pipeline
 
 ### 1. Data Preparation
@@ -88,6 +93,15 @@ airstay-insights-project/
 * Amazon SageMaker
 * Amazon S3
 * XGBoost
+
+## How to Run the Project
+
+1. Download the dataset from Kaggle and upload it to your SageMaker environment
+2. Open the notebook:
+   notebooks/assignment_5_1_airstay_insights_model_training.ipynb
+3. Run all cells sequentially
+4. Ensure AWS permissions are configured for SageMaker and S3
+5. The model will train, deploy, evaluate, and clean up resources automatically
 
 ## Future Enhancements
 
